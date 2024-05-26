@@ -1,11 +1,14 @@
 {% extends 'main/layout.html' %}
-{% load static %}
 
-<link rel="stylesheet" href="{% static 'main/css/index.css' %}">
-{% block title %}Главная страница{% endblock %}
+{% block title %}{{ title }}{% endblock %}
 
 {% block content %}
-  <h1>главная страница</h1>
-  <p>Главная страница</p>
+  <div class="features">
+    <h1>{{ title }}</h1>
+
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At dignissimos ducimus eligendi facilis fuga illo nihil odio suscipit. Minus, quisquam?</p>
+    <button class="btn btn-primary">На страницу про нас</button>
+
+  </div>
 {% endblock %}
 
