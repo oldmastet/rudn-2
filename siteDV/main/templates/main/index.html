@@ -1,8 +1,11 @@
 {% extends 'main/layout.html' %}
+{% load static %}
 
+<link rel="stylesheet" href="{% static 'main/css/index.css' %}">
 {% block title %}Главная страница{% endblock %}
 
 {% block content %}
   <h1>главная страница</h1>
   <p>Главная страница</p>
 {% endblock %}
+

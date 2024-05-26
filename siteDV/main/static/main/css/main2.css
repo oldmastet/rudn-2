@@ -1,10 +1,10 @@
 body {
-    background: #2c2c2c;
+    background: #FFFFF;
 }
 
 aside {
     float: left;
-    background: #181818;
+    background: #145993;
     width: 21%;
     padding: 2.5%;
     height: 100vh;
@@ -17,3 +17,4 @@ aside img {
     float: left;
 
 }
+

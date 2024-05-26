@@ -4,14 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6cc19df3-0d82-4248-8464-befbfb0cc874" name="Changes" comment="da">
-      <change afterPath="$PROJECT_DIR$/siteDV/main/static/main/img/logo1.png" afterDir="false" />
+    <list default="true" id="6cc19df3-0d82-4248-8464-befbfb0cc874" name="Changes" comment="alo">
+      <change afterPath="$PROJECT_DIR$/siteDV/main/static/main/css/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/siteDV/main/static/main/css/link.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/siteDV/main/static/main/css/main2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/siteDV/main/templates/main/contacts.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/siteDV/main/static/main/css/main1.css" beforeDir="false" afterPath="$PROJECT_DIR$/siteDV/main/static/main/css/main1.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/siteDV/main/static/main/img/logo2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/siteDV/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/siteDV/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/siteDV/main/static/main/css/main1.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/siteDV/main/templates/main/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/siteDV/main/templates/main/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/siteDV/main/templates/main/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/siteDV/main/templates/main/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/siteDV/main/templates/main/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/siteDV/main/templates/main/layout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/siteDV/main/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/siteDV/main/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/siteDV/main/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/siteDV/main/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,7 +140,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712056873713</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="alo">
+      <option name="closed" value="true" />
+      <created>1712069161015</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1712069161015</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -143,7 +156,8 @@
     <MESSAGE value="css" />
     <MESSAGE value="yes" />
     <MESSAGE value="da" />
-    <option name="LAST_COMMIT_MESSAGE" value="da" />
+    <MESSAGE value="alo" />
+    <option name="LAST_COMMIT_MESSAGE" value="alo" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
