@@ -15,14 +15,15 @@
 </head>
 <body>
     <aside>
-        <img src="{% static 'main/img/logo1.png' %}" alt="Лого">
-        <span class="logo">Ньютончик</span>
+        <img src="{% static 'main/img/logo2.png' %}" alt="Лого">
+        <span class="logo">Light Souls</span>
         <h3>Навигация</h3>
         <ul>
             <a href="{% url 'home' %}"><li><i class="fa-solid fa-house"></i> Главная</li> </a>
             <a href="{% url 'about' %}"><li><i class="fa-solid fa-address-card"></i> Кто мы</li></a>
             <a href="{% url 'news_home' %}"><li><i class="fa-solid fa-align-justify"></i> Новости</li></a>
             <a href="{% url 'contacts' %}"><li><i class="fa-solid fa-paper-plane"></i> Контакты</li></a>
+            <a href="{% url 'create' %}"><li><button class='btn btn-outline-light'><i class="fas fa-plus-circle"></i> Добавить запись </button></li></a>
         </ul>
 
     </aside>

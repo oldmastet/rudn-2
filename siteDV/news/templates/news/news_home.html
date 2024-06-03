@@ -7,9 +7,11 @@
         <h1>Новости на сайте</h1>
         {% if news %}
             {% for el in news %}
-                 <div class='alert alert-info'>
-                     <h3>{{ el.title }}</h3>
-                     <p>{{ el.anons }}</p>
+                 <div class='alert alert-success'>
+                     <h3 style="color:#0a3622">{{ el.title }}</h3>
+                     <p style="color:#0a3622">{{ el.anons }}</p>
+                     <a class="btn btn-success" href="{% url 'news_detail' el.id %}" role="button">Тут больше информации</a>
+
                  </div>
             {% endfor %}
         {% else %}

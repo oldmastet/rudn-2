@@ -5,29 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6cc19df3-0d82-4248-8464-befbfb0cc874" name="Changes" comment="alo">
-      <change afterPath="$PROJECT_DIR$/siteDV/main/static/main/css/main1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/siteDV/news/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/siteDV/news/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/siteDV/news/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/siteDV/news/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/siteDV/news/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/siteDV/news/templates/news/news_home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/siteDV/news/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/siteDV/news/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/siteDV/news/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/siteDV/news/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/siteDV/news/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/siteDV/news/templates/news/create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/siteDV/news/templates/news/details_view.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/siteDV/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/siteDV/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/siteDV/main/static/main/css/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/siteDV/main/static/main/css/link.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/siteDV/main/static/main/css/main2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/siteDV/main/static/main/css/main1.css" beforeDir="false" afterPath="$PROJECT_DIR$/siteDV/main/static/main/css/main1.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/siteDV/main/templates/main/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/siteDV/main/templates/main/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/siteDV/main/templates/main/contacts.html" beforeDir="false" afterPath="$PROJECT_DIR$/siteDV/main/templates/main/contacts.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/siteDV/main/templates/main/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/siteDV/main/templates/main/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/siteDV/main/templates/main/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/siteDV/main/templates/main/layout.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/siteDV/main/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/siteDV/main/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/siteDV/main/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/siteDV/main/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/siteDV/siteDV/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/siteDV/siteDV/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/siteDV/siteDV/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/siteDV/siteDV/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/siteDV/news/templates/news/news_home.html" beforeDir="false" afterPath="$PROJECT_DIR$/siteDV/news/templates/news/news_home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/siteDV/news/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/siteDV/news/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/siteDV/news/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/siteDV/news/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,16 +47,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "DefaultHtmlFileTemplate": "HTML File",
-    "Python.main.executor": "Debug",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Python.main.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\spr29\PycharmProjects\site_rudn\siteDV\main\static\main\img" />
@@ -168,7 +159,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716741115831</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="alo">
+      <option name="closed" value="true" />
+      <created>1716758980591</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1716758980592</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
