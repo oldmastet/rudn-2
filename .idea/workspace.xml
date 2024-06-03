@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6cc19df3-0d82-4248-8464-befbfb0cc874" name="Changes" comment="alo">
-      <change afterPath="$PROJECT_DIR$/siteDV/news/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/siteDV/news/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/siteDV/news/templates/news/create.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/siteDV/news/templates/news/details_view.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/siteDV/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/siteDV/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/siteDV/main/static/main/css/main1.css" beforeDir="false" afterPath="$PROJECT_DIR$/siteDV/main/static/main/css/main1.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/siteDV/main/templates/main/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/siteDV/main/templates/main/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/siteDV/main/templates/main/contacts.html" beforeDir="false" afterPath="$PROJECT_DIR$/siteDV/main/templates/main/contacts.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/siteDV/main/templates/main/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/siteDV/main/templates/main/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/siteDV/main/templates/main/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/siteDV/main/templates/main/layout.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/siteDV/news/templates/news/news_home.html" beforeDir="false" afterPath="$PROJECT_DIR$/siteDV/news/templates/news/news_home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/siteDV/news/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/siteDV/news/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/siteDV/news/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/siteDV/news/views.py" afterDir="false" />
-    </list>
+    <list default="true" id="6cc19df3-0d82-4248-8464-befbfb0cc874" name="Changes" comment="alo" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -167,7 +152,23 @@
       <option name="project" value="LOCAL" />
       <updated>1716758980592</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="alo">
+      <option name="closed" value="true" />
+      <created>1717429600105</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1717429600125</updated>
+    </task>
+    <task id="LOCAL-00010" summary="alo">
+      <option name="closed" value="true" />
+      <created>1717429665471</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1717429665471</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
